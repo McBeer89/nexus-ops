@@ -1,2 +1,3 @@
 # nexus-ops
-Nexus Legacy community ops reference
+
+Nexus Legacy Ops Hub — Community Edition. Static reference page (auto-published daily). Not indexed.
